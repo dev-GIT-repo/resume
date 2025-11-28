@@ -1,0 +1,135 @@
+{
+    "document": {
+        "docTitle": "RESUME",
+        "personalDetails": {
+            "name": "Devendu Kulyar",
+            "contact": {
+                "mobile": "8867696308",
+                "email": "devendukulyar@gmail.com",
+                "whatsapp": "9665592320"
+            },
+            "img": "./src/assets/DEV.jpeg"
+        },
+        "professionalSummary": {
+            "heading": "Professional Summary",
+            "content": "Accomplished IT Professional with 10 years of experience specializing in software development, web technologies, and programming frameworks like ReactJS, C#, .Net, and JavaScript. Recognized for delivering innovative solutions that streamline operations, improve development efficiency, and enhance user experience."
+        },
+        "coreCompetancies": {
+            "heading": "Core Competancies",
+            "Competancies": [
+                {
+                    "type": "FrontEnd Development",
+                    "value": "ReactJS, HTML5, CSS, Bootstrap, Grommet"
+                },
+                {
+                    "type": "BackEnd Development",
+                    "value": "REST APIs, .Net, SQL"
+                },
+                {
+                    "type": "Programming Skills",
+                    "value": "C#, JavaScript (ES6), WPF"
+                },
+                {
+                    "type": "Tools",
+                    "value": "Visual Studios, VS Code, Git"
+                },
+                {
+                    "type": "Software Configurations",
+                    "value": "Deployment, Debugging, Testing"
+                }
+            ]
+        },
+        "workExperience": {
+            "heading": "Professional Experience",
+            "experiences": [
+                {
+                    "designation": "Senior Web Developer",
+                    "company": "Mphasis Ltd.",
+                    "place": "Bengaluru",
+                    "duration": "2020-2025",
+                    "keyJobs": [
+                        {
+                            "items": "Designed and implemented reusable ReactJS UI components, reducing development timelines."
+                        },
+                        {
+                            "items": "Migrated sizer tools from WPF/XAML to ReactJS for improved maintainability and functionality."
+                        },
+                        {
+                            "items": "Developed REST APIs to integrate UI with backend systems, ensuring seamless client-tool interaction."
+                        },
+                        {
+                            "items": "Automated XML generation processes, reducing time from 1–2 days to minutes."
+                        }
+                    ]
+                },
+                {
+                    "designation": "Software Developer",
+                    "company": "Mphasis Ltd.",
+                    "place": "Bengaluru",
+                    "duration": "2016-2020",
+                    "keyJobs": [
+                        {
+                            "items": "Created frameworks to eliminate redundant code, enhancing standardization across tools."
+                        },
+                        {
+                            "items": "Automated removal of End-of-Life products from sizer tools, improving lifecycle management."
+                        },
+                        {
+                            "items": "Designed user-friendly XAML interfaces and performed extensive code reviews and testing."
+                        }
+                    ]
+                },
+                {
+                    "designation": "Associate Software Developer",
+                    "company": "Mphasis Ltd.",
+                    "place": "Bengaluru",
+                    "duration": "2015-2016",
+                    "keyJobs": [
+                        {
+                            "items": "Assisted in debugging, defect fixing, and writing clear understanding documents."
+                        },
+                        {
+                            "items": "Engaged in knowledge transfer sessions, domain trainings, and code walkthroughs."
+                        }
+                    ]
+                }
+            ]
+        },
+        "education": {
+            "heading": "Education",
+            "educationDetails": [
+                {
+                    "stream": "Bachelor of Engineering (B.E.)",
+                    "institute": "Priyadarshini College of Engineering",
+                    "place": "Nagpur",
+                    "passingYear": "2014"
+                }
+            ]
+        },
+        "keyAchievements": {
+            "heading": "Awards & Achievements",
+            "achievements": [
+                {
+                    "items": "Multiple client recognitions and manager-issued appreciation cards for quality delivery."
+                },
+                {
+                    "items": "Received the Monthly Summit Award from Mphasis for consistent excellence."
+                },
+                {
+                    "items": "Reduced development effort across projects through reusable UI components and automation."
+                }
+            ]
+        },
+        "strength": {
+            "heading": "Strengths",
+            "strengths": [
+                {
+                    "items": "Dedicated and committed to quality outcomes."
+                },
+                {
+                    "items": "Skilled at learning new technologies and enhancing team collaboration."
+                }
+            ]
+        }
+    }
+}
